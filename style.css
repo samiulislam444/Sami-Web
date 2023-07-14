@@ -51,13 +51,26 @@ section{
     padding-top: 100px;
 }
 .basic{
-    padding-left: 50px;
-    padding-right: 20px;
+    padding: 50px;
     width: 50%;
     padding-top: 0;
+    margin: 60px;
+    margin-left: 100px;
+    border-radius: 10px;
+    border-left: 10px solid orangered;
 }
 .advance{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 50px;
     width: 50%;
+    margin: 60px;
+    margin-right: 100px;
+    padding-top: 0;
+    border-radius: 10px;
+    border-left: 10px solid blue;
+}
+.develop{
+    box-shadow: 10px 10px 40px gray ;
+}
+#islam {
+    text-align: center;
 }
