@@ -41,3 +41,8 @@ section{
     background-repeat: no-repeat;
     background-size: 100;
 }
+.background{
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
