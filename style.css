@@ -1,11 +1,41 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Heebo', sans-serif;
+    margin: 0;
 }
 h1{ 
-    margin-left: 70px;
-    font-size: 50px;
+    font-size: 40px;
 } 
-#wel{ margin-top: 100px; }
 #name{
     color: red;
+}
+h3{
+    font-size: 20px;
+}
+p{
+    text-align: justify;
+}
+section{
+    display: flex;
+}
+.one{
+    padding-left: 50px;
+    padding-top: 50px;
+    width: 50%;
+}
+.two img{
+    padding-top: 50px;
+    padding-left: 200px;
+    width: 50%;
+    
+}
+.hire{
+    text-decoration: none;
+    background-color: rgba(255, 68, 0, 0.781);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+}
+.back{
+    background-image: url(images/);
+    background-repeat: no-repeat;
 }
